@@ -1,0 +1,61 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400;1,500&family=Roboto:wght@400;500;700&family=Schibsted+Grotesk&display=swap');
+
+
+/* html, body {
+  height: 100%;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
+
+
+body{
+  background-image: linear-gradient(to bottom, darkred ,darkblue 60%, green );
+  color: white;
+  margin-left: 35%;
+  margin-top: 10%;
+  font-family: 'Roboto', sans-serif;
+  font-size: 30px;
+}
+
+.title{
+  font-size: 30px;
+  font-weight: bold;
+  font-family: 'Roboto', sans-serif;
+}
+
+.move-icon{
+  height: 50px;
+}
+.moves-button{
+  background-color: transparent;
+  border: 3px solid green;
+  border-radius: 30px;
+  width: 120px;
+  height: 120px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+.result{
+  font-size: 25px;
+  font-weight: bold;
+  margin-top: 50px;
+}
+
+.score{
+  margin-top: 60px;
+}
+.reset-score-button,
+.auto-play-button{
+  background-color: white;
+  color: black;
+  border: none;
+  padding: 8px 15px;
+  font-size: 20px;
+  cursor: pointer;
+  margin-left:auto;
+  border-radius: 6px;
+  
+}
