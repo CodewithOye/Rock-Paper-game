@@ -26,6 +26,3 @@ The game consists of the following files:
 
 This game was created by Code With Oye. It is a simple project intended for educational purposes and to demonstrate the use of HTML, CSS, and JavaScript in building interactive web applications.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code for your own purposes. However, please provide attribution to the original author and include the license file when distributing or sharing the code.
